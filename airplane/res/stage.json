@@ -1,0 +1,10 @@
+[
+{"hp":1000,"attack":100,"jiyiAttack":20,"wing_bullet_attack":50},
+{"hp":1500,"attack":30,"jiyiAttack":20,"wing_bullet_attack":50},
+{"hp":1000,"attack":100,"jiyiAttack":20,"wing_bullet_attack":50},
+{"hp":1000,"attack":30,"spe":350,"bulletspe":400},
+{"hp":4000,"attack":80,"spe":500,"bulletspe":7},
+{"hp":2000,"attack":50,"spe":100,"bulletspe":20},
+{"hp":1500,"attack":80,"spe":500,"bulletspe":7},
+{"hp":3500,"attack":80,"spe":400,"bulletspe":7}
+]
