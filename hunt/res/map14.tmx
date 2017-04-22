@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="8" height="14" tilewidth="100" tileheight="100" nextobjectid="5">
+ <tileset firstgid="1" name="tiled" tilewidth="100" tileheight="100">
+  <image source="tiled.png" width="500" height="400"/>
+ </tileset>
+ <layer name="layer0" width="8" height="14">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAcMEFpdiDmgLJ5kOS5kGguNDEYmxOI2YCYFcrmQJNHB8hipOphh9rFgMTnRBJjxWIWJxRz43A/PvfxYZHnxSJGDgAAJNsBQw==
+  </data>
+ </layer>
+ <objectgroup name="object1">
+  <object id="1" x="127.273" y="418.182" width="57.5758" height="54.5455">
+   <properties>
+    <property name="id" value="0"/>
+   </properties>
+  </object>
+  <object id="2" x="624.242" y="415.152" width="63.6364" height="63.6364">
+   <properties>
+    <property name="id" value="1"/>
+   </properties>
+  </object>
+  <object id="3" x="112.121" y="927.271" width="63.6364" height="54.5455">
+   <properties>
+    <property name="id" value="2"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

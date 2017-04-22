@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="8" height="14" tilewidth="100" tileheight="100" nextobjectid="3">
+ <tileset firstgid="1" name="tiled" tilewidth="100" tileheight="100">
+  <image source="tiled.png" width="500" height="400"/>
+ </tileset>
+ <tileset firstgid="21" name="tiled" tilewidth="100" tileheight="100">
+  <image source="tiled.png" width="500" height="400"/>
+ </tileset>
+ <layer name="layer0" width="8" height="14">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgZgB2IOYGYA4c8FxpNijwLELNB2axQe3jQ1HATMB+mjw2HPC4AAEnMAI4=
+  </data>
+ </layer>
+ <layer name="layer1" width="8" height="14">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAeECMgL4dDXBqIZYFYCkqDsAwBfchiiiTYRS95BQLy1AIA1lMB0g==
+  </data>
+ </layer>
+ <objectgroup name="object1">
+  <object id="1" x="321.212" y="424.242" width="54.5455" height="48.4848">
+   <properties>
+    <property name="id" value="0"/>
+   </properties>
+  </object>
+  <object id="2" x="418.182" y="1018.18" width="63.6364" height="60.6061">
+   <properties>
+    <property name="id" value="1"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>
