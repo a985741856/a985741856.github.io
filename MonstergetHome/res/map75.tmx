@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="8" height="14" tilewidth="100" tileheight="100" nextobjectid="7">
+ <tileset firstgid="1" name="tiled" tilewidth="100" tileheight="100">
+  <image source="tiled.png" width="500" height="400"/>
+ </tileset>
+ <tileset firstgid="21" name="tiled" tilewidth="100" tileheight="100">
+  <image source="tiled.png" width="500" height="400"/>
+ </tileset>
+ <tileset firstgid="41" name="tiled" tilewidth="100" tileheight="100">
+  <image source="tiled.png" width="500" height="400"/>
+ </tileset>
+ <tileset firstgid="61" name="tiled" tilewidth="100" tileheight="100">
+  <image source="tiled.png" width="500" height="400"/>
+ </tileset>
+ <layer name="layer0" width="8" height="14">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAcsAMxJxrmRpJnhNJcBMzhoYJbRhoAAGy4AE4=
+  </data>
+ </layer>
+ <layer name="layer1" width="8" height="14">
+  <data encoding="base64" compression="zlib">
+   eJxjYBh4oAjE0kCsgENeEojlCJiBT14Jar4sEIvj0ItPP8h+KQL2DxQAAHSHAZI=
+  </data>
+ </layer>
+ <layer name="layer2" width="8" height="14">
+  <data encoding="base64" compression="zlib">
+   eJxjYKA/0AdiAzzyRlCMDnSA2BCI9YDYgoB+fAAkb05AXg+HnCUeuYEAALgKAuk=
+  </data>
+ </layer>
+ <layer name="layer3" width="8" height="14">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFpABfAvJuUNoOScwLiF3RsBOV3AMA6nACcg==
+  </data>
+ </layer>
+ <objectgroup name="object1">
+  <object id="1" x="324.242" y="233.333" width="48.4848" height="42.4242">
+   <properties>
+    <property name="id" value="0"/>
+   </properties>
+  </object>
+  <object id="2" x="230.303" y="524.242" width="36.3636" height="48.4848">
+   <properties>
+    <property name="id" value="1"/>
+   </properties>
+  </object>
+  <object id="3" x="227.273" y="730.303" width="42.4242" height="54.5455">
+   <properties>
+    <property name="id" value="3"/>
+   </properties>
+  </object>
+  <object id="4" x="430.303" y="1118.18" width="39.3939" height="60.6061">
+   <properties>
+    <property name="id" value="5"/>
+   </properties>
+  </object>
+  <object id="5" x="527.273" y="830.303" width="45.4545" height="45.4545">
+   <properties>
+    <property name="id" value="4"/>
+   </properties>
+  </object>
+  <object id="6" x="515.152" y="533.333" width="54.5455" height="45.4545">
+   <properties>
+    <property name="id" value="2"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

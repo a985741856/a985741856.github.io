@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="8" height="14" tilewidth="100" tileheight="100" nextobjectid="5">
+ <tileset firstgid="1" name="tiled" tilewidth="100" tileheight="100">
+  <image source="tiled.png" width="500" height="400"/>
+ </tileset>
+ <tileset firstgid="21" name="tiled" tilewidth="100" tileheight="100">
+  <image source="tiled.png" width="500" height="400"/>
+ </tileset>
+ <layer name="layer0" width="8" height="14">
+  <data encoding="base64" compression="zlib">
+   eJxjYBh4wA7EnGiYA0meC4sebjz6edHUshIwnw+L+VxobHQ72NDMx+ZGbG5gJqCOVAAA4/wBEw==
+  </data>
+ </layer>
+ <layer name="layer1" width="8" height="14">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAcKAKxNBDLQ2kFNHlJKJZFosWpYO8oYGAAAKnLATM=
+  </data>
+ </layer>
+ <objectgroup name="object1">
+  <object id="1" x="218.182" y="1024.24" width="54.5455" height="51.5152">
+   <properties>
+    <property name="id" value="0"/>
+   </properties>
+  </object>
+  <object id="2" x="127.273" y="618.182" width="48.4848" height="57.5758">
+   <properties>
+    <property name="id" value="1"/>
+   </properties>
+  </object>
+  <object id="3" x="418.182" y="324.242" width="60.6061" height="48.4848">
+   <properties>
+    <property name="id" value="3"/>
+   </properties>
+  </object>
+  <object id="4" x="221.212" y="312.121" width="60.6061" height="57.5758">
+   <properties>
+    <property name="id" value="2"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>
